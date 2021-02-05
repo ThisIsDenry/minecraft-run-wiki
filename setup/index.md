@@ -82,5 +82,5 @@
 > makes dark areas brighter. To enable open `.minecraft/options.txt` and gamma to 5.0
 ### **Subtitles**
 > Lets you see sounds that would be to quiet to hear otherwise and lets you see the direction a sound is from
-### **Planer fog**
-> Lets you see further in the nether
+### **Planer fog** 
+> Lets you see further in the nether *only with mangohands soduim
