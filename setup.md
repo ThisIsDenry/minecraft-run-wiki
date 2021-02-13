@@ -129,3 +129,6 @@ WARNING: do not install Fabric API as it is not needed for CaffeineMC and will g
 > Lets you see sounds that would be to quiet to hear otherwise and lets you see the direction a sound is from. To enable open `Options > Accessibility Settings... > Show Subtitles`
 ### **Planer fog** 
 > Lets you see further in the nether *only with mangohands soduim. To enable open `Options > Video Settings... > Unofficial > Use Planar Fog`
+
+# Timers
+*TODO: add timers with list of pros and cons*
