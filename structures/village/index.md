@@ -1,2 +1,5 @@
-# TODO: locating
-# TODO: routes
+
+# Village
+
+*TODO: locating*
+*TODO: routes*

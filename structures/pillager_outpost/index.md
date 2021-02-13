@@ -1,1 +1,4 @@
-# TODO: loot
+
+# Pillager Outpost
+
+*TODO: loot*

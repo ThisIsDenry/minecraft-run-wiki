@@ -1,2 +1,5 @@
-# TODO: chest types
-# TODO: loot
+
+# Shipwreck
+
+*TODO: chest types*
+*TODO: loot*

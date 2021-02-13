@@ -1,2 +1,5 @@
-# TODO: routes
-# TODO: loot
+
+# Jungle Temple
+
+*TODO: routes*
+*TODO: loot*

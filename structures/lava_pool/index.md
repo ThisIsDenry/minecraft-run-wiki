@@ -1,3 +1,6 @@
-# TODO: desert locating
-# TODO: lava dowsing
-# TODO: qick portal
+
+# Lave Pool
+
+*TODO: desert locating*
+*TODO: lava dowsing*
+*TODO: quick portal*

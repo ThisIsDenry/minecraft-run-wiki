@@ -98,6 +98,9 @@
 > **cons:**
 > * setup required
 
+*TODO: make this a link*
+troubleshooting
+
 WARNING: do not install Fabric API as it is not needed for CaffeineMC and will get your run rejected
 
 ### *Setup - Default Launcher*
