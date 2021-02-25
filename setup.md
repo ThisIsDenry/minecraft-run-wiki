@@ -1,3 +1,26 @@
+# Table of Contents
+
+- [Launchers](#launchers)
+  * [Default Launcher - Single Profile](#default-launcher---single-profile)
+    + [*Setup*](#-setup-)
+  * [Default Launcher - Multi Profile](#default-launcher---multi-profile)
+    + [*Setup*](#-setup--1)
+  * [MultiMC](#multimc)
+    + [*Setup*](#-setup--2)
+- [Version](#version)
+  * [1.16.1](#1161)
+- [Mods](#mods)
+  * [Vanilla](#vanilla)
+  * [CaffeineMC](#caffeinemc)
+    + [*Setup - Default Launcher*](#-setup---default-launcher-)
+    + [*Setup - MultiMC*](#-setup---multimc-)
+  * [Optifine](#optifine)
+- [Optinal things you should do](#optinal-things-you-should-do)
+    + [**Gama**](#--gama--)
+    + [**Subtitles**](#--subtitles--)
+    + [**Planer fog**](#--planer-fog--)
+- [Timers](#timers)
+
 # Launchers
 
 ## Default Launcher - Single Profile
