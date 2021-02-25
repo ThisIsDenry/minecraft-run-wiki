@@ -48,7 +48,7 @@
 ## Default Launcher - Multi Profile
 
 > **pros:**
-* run world files isolated from other instances of minecraft
+> * run world files isolated from other instances of minecraft
 > * speedrun settings only on runs
 > * mods are static
 
@@ -89,6 +89,8 @@
 > 5. select target vesion
 > 6. launch new instance
 > 7. *(optional)* install mods
+
+NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely ignore it.
 
 # Version
 
