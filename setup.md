@@ -1,5 +1,5 @@
 # Table of Contents
-
+---
 - [Launchers](#launchers)
   * [Default Launcher - Single Profile](#default-launcher---single-profile)
     + [*Setup*](#-setup-)
@@ -20,7 +20,7 @@
     + [**Subtitles**](#--subtitles--)
     + [**Planer fog**](#--planer-fog--)
 - [Timers](#timers)
-
+---
 # Launchers
 
 ## Default Launcher - Single Profile
@@ -90,8 +90,9 @@
 > 6. launch new instance
 > 7. *(optional)* install mods
 
-NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely ignore it.
+:grey_exclamation: In MultiMC if your session icon is a cross , do not worry . You can safely ignore it.
 
+---
 # Version
 
 ## 1.16.1
@@ -103,6 +104,7 @@ NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely
 > **cons**
 > * not the latest version of minecraft
 
+---
 # Mods
 
 ## Vanilla
@@ -126,7 +128,7 @@ NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely
 *TODO: make this a link*
 troubleshooting
 
-WARNING: do not install Fabric API as it is not needed for CaffeineMC and will get your run rejected
+:exclamation: Do NOT install Fabric API as it is not needed for CaffeineMC and will get your run rejected
 
 ### *Setup - Default Launcher*
 > 1. download [fabric launcher](https://fabricmc.net/use/)
@@ -148,7 +150,7 @@ WARNING: do not install Fabric API as it is not needed for CaffeineMC and will g
 
 > **cons:**
 > * any run using optifine will be rejected
-
+---
 # Optinal things you should do
 
 ### **Gama**
@@ -157,6 +159,6 @@ WARNING: do not install Fabric API as it is not needed for CaffeineMC and will g
 > Lets you see sounds that would be to quiet to hear otherwise and lets you see the direction a sound is from. To enable open `Options > Accessibility Settings... > Show Subtitles`
 ### **Planer fog** 
 > Lets you see further in the nether *only with mangohands soduim. To enable open `Options > Video Settings... > Unofficial > Use Planar Fog`
-
+---
 # Timers
 *TODO: add timers with list of pros and cons*
