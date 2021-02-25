@@ -36,7 +36,8 @@
 * [Educated Travel](travel/educated_travel.md)
 
 ## Navigation
-*TODO: go over navigation strategies*
+* [Backwords Navigation](navigation/backwords_navigaton.md)
+* [Finding the portal room](navigation/portal_room_navigation.md)
 
 ## Loot
 *TODO: go over chest loot*

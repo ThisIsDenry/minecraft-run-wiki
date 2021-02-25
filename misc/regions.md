@@ -12,7 +12,7 @@ TODO: explain chart
 | Structure 							|size	| Spacing |			 Biomes 			| Group |
 --------------------------|-----|---------|-------------------|-------|
 | Fortress 								|	368	|		64	 	|				All					| Nether|
-| Bastion 								|	368	|		64	 	| -Nether - Basalt	|	Nether|
+| Bastion 								|	368	|		64	 	| not basalt deltas	|	Nether|
 | Ruined Portal Nether		|	TODO|	TODO	 	|			TODO					|	TODO	|
 | Ruined Portal Overworld	|	TODO|	TODO	 	|			TODO					|	TODO	|
 | Monument 								|	432	|		80	 	|			TODO					|	TODO	|

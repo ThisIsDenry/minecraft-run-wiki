@@ -4,7 +4,7 @@
 [regions](../../regions) *size* *biomes*
 
 ## Locating
-*TODO: go over entitiy telescoping*
+*TODO: go over entitiy xraying*
 
 ## Types
 
