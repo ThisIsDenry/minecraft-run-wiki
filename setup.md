@@ -107,14 +107,7 @@
 ---
 # Mods
 
-## Vanilla
-
-> **pros:**
-> * no setup
-
-> **cons:**
-> * slower running game
-> * planer fog only on a few systems
+:exclamation:    Do NOT install Fabric API as it is not needed for CaffeineMC and will get your run rejected
 
 ## CaffeineMC
 
@@ -127,8 +120,6 @@
 
 *TODO: make this a link*
 troubleshooting
-
-:exclamation: Do NOT install Fabric API as it is not needed for CaffeineMC and will get your run rejected
 
 ### *Setup - Default Launcher*
 > 1. download [fabric launcher](https://fabricmc.net/use/)
