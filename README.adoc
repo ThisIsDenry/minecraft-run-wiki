@@ -153,11 +153,11 @@ CAUTION: Do NOT use Fabric API, below listed Modifications do NOT require it and
 
 * For MultiMC:
 
-* Click `Edit Instance` by right clicking on the selected version and click on `Install Fabric` from the right pane
-* Select the fabric version with the star mark beside it.
-* Click `Close` and re-open `Edit Instance` page.
-* Go to `Loader Mods` Section in the Left Pane > Click `Add` in the right Pane > Select the three mods which you downloaded and saved in some place.
-* Should be good to go !
+** Click `Edit Instance` by right clicking on the selected version and click on `Install Fabric` from the right pane
+** Select the fabric version with the star mark beside it.
+** Click `Close` and re-open `Edit Instance` page.
+** Go to `Loader Mods` Section in the Left Pane > Click `Add` in the right Pane > Select the three mods which you downloaded and saved in some place.
+** Should be good to go !
 
 ---
 
