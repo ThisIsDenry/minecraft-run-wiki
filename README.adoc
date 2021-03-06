@@ -213,7 +213,7 @@ _(TBD)_
 ---
 
 
-= Discords:
+= Discords
 
 * https://discord.gg/tDPvR9c[Minecraft Java Speedrunning Discord]
 * https://discord.gg/tYpdRSn[Console Edition Speedrunning Discord]
