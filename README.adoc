@@ -12,6 +12,8 @@ endif::[]
 
 toc::[]
 
+---
+
 = Launchers
 
 == https://www.minecraft.net/en-us/[Default Launcher]
@@ -36,6 +38,7 @@ This is the default launcher developed by Mojang themselves. Aptly titled "Minec
 ** To add mods , you need to install Fabric and then create a `mods` folder in the `~/Appdata/Roaming/.minecraft` parent folder and put your mods there. **Check the MODS section below for proper installation details**
 ** OPTIONAL : If you want to allocate more ram (upto 4 GB is ideal) , you can do so by clicking `More Options` and changing the `2` in `-Xmx2G` to 3 or 4 for 3 GB or 4 GB respectively.
 
+---
 
 == https://multimc.org/[MultiMC]
 * Pros: 
@@ -68,6 +71,7 @@ This is the default launcher developed by Mojang themselves. Aptly titled "Minec
 
 NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely ignore it.
 
+---
 
 = Version
 
@@ -99,6 +103,8 @@ NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely
 ** Considerably long routes.
 ** Old version.
 
+---
+
 = Allowed Hard-Config Changes: 
 
 == Gamma:
@@ -115,6 +121,7 @@ NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely
 * For the Sodium users , here is how you widen your eyes in the nether !
 ** In Minecraft Pause Meny : `Options > Video Settings... > Unofficial > Use Planar Fog` and tick on it.
 
+---
 
 = Mods
 
@@ -126,13 +133,14 @@ CAUTION: Do NOT use Fabric API, below listed Modifications do NOT require it and
 ** Allow huge optimization to the game and fix the meshap created by Mojank.
 ** Allows users to use Planer Fog.
 ** Default options should be adequate.
+** Fabric Mods
 
 === Download
-* https://modrinth.com/mod/sodium[Sodium]
-* https://modrinth.com/mod/lithium[Lithium]
-* https://modrinth.com/mod/phosphor[Phosphor]
+* https://mrmangohands.github.io/sodium-redirect/[Sodium for 1.16.1]
+* https://mrmangohands.github.io/lithium-redirect/[Lithium for 1.16.1]
+* https://mrmangohands.github.io/phosphor-redirect/[Phosphor for 1.16.1]
 
-==== Setup: 
+=== Setup: 
 
 * For Default Launcher :
 ** Download & Install Fabric Mod Loader from https://fabricmc.net/use/[here]
@@ -149,16 +157,19 @@ CAUTION: Do NOT use Fabric API, below listed Modifications do NOT require it and
 * Go to `Loader Mods` Section in the Left Pane > Click `Add` in the right Pane > Select the three mods which you downloaded and saved in some place.
 * Should be good to go !
 
+---
+
 == Optifine
 
 * Not allowed in versions for which Caffeine MC mods exists.
 ** Your runs WILL get disqualified if you use it in 1.16.1 or for a version which has Sodium , Lithium and Phosphor for.
 ** Allows your game to run faster + Shaders.
+** Forge Mod
 
 === Download
 * https://optifine.net/downloads[Optifine]
 
-==== Setup:
+=== Setup:
 
 * For Default Launcher:
 ** Simply double click the downloaded file and hit Install.
@@ -168,6 +179,32 @@ CAUTION: Do NOT use Fabric API, below listed Modifications do NOT require it and
 ** Right click the MultiMC version and hit `Minecraft Folder` make a `mods` folder there. Keep the `mods` folder open
 ** Put the downloaded Optifine jar file in the `mods` folder and launch the game
 
+---
+
+== LazyDFU
+
+* Allows Faster Minecraft start-up/Loading
+** Fabric Mod.
+
+=== Download
+* https://modrinth.com/mod/lazydfu/versions[LazyDFU]
+
+=== Setup
+
+<Same as for CaffeineMC>
+
+---
+
+== Krypton
+* Networking optimization incase you play on servers. 
+
+=== Download 
+* https://mrmangohands.github.io/krypton-redirect[Krypton]
+
+=== Setup
+<Same as CaffeineMC>
+
+---
 
 = Timers:
 
