@@ -2,8 +2,6 @@
 
 # [Contribute](./contributing.md)
 
-3 goals
-
 Linkablity
 > If someone needs help with a topic they can just be given a link to the related page
 
