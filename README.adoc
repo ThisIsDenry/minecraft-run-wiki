@@ -110,7 +110,9 @@ NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely
 == Gamma:
 
 * Want to make your world look bright in dark areas and shinny like the ones you see in speedrun streams ?
-**  Open .minecraft/`options.txt` and set `gamma` to 5.0.  Do NOT go over 5.0.
+**  Open .minecraft/`options.txt` and set `gamma` to 5.0.  
+
+WARNING: Do NOT go over 5.0.
 
 == Subtitles:
 
@@ -217,6 +219,8 @@ _(TBD)_
 
 * https://discord.gg/tDPvR9c[Minecraft Java Speedrunning Discord]
 * https://discord.gg/tYpdRSn[Console Edition Speedrunning Discord]
+* https://discord.gg/wpy4tXWYQQ[Minecraft Pre 1.9 Speedrun Discord]
 * https://discord.gg/jGhNxpd[Minecraft TAS Discord]
+* https://discord.gg/EFvygzt[Minecraft 1.16 SSG Discord]
 * https://discord.gg/d5PKmBJ[Bedrock Discord]
 * https://discord.gg/7P3nqzZ[Monkeys]
