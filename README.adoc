@@ -209,3 +209,14 @@ CAUTION: Do NOT use Fabric API, below listed Modifications do NOT require it and
 = Timers:
 
 _(TBD)_
+
+---
+
+
+= Discords:
+
+* https://discord.gg/tDPvR9c[Minecraft Java Speedrunning Discord]
+* https://discord.gg/tYpdRSn[Console Edition Speedrunning Discord]
+* https://discord.gg/jGhNxpd[Minecraft TAS Discord]
+* https://discord.gg/d5PKmBJ[Bedrock Discord]
+* https://discord.gg/7P3nqzZ[Monkeys]
