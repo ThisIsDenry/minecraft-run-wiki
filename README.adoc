@@ -89,7 +89,7 @@ NOTE: In MultiMC if your session icon is a cross , do not worry . You can safely
 * Pros:
 
 * Cons:
-** Longer rote
+** Longer route
 ** A tiny bit less perfomant
 
 == Pre 1.9
@@ -120,7 +120,7 @@ WARNING: Do NOT go over 5.0.
 
 == Planer Fog:
 * For the Sodium users , here is how you widen your eyes in the nether !
-** In Minecraft Pause Meny : `Options > Video Settings... > Unofficial > Use Planar Fog` and tick on it.
+** In Minecraft Pause Menu : `Options > Video Settings... > Unofficial > Use Planar Fog` and tick on it.
 
 ---
 
@@ -209,7 +209,28 @@ CAUTION: Do NOT use Fabric API, below listed Modifications do NOT require it and
 
 = Timers:
 
-_(TBD)_
+There is a split in timing system because of several issues with how timing a run so there are two possible chrono systems : a) IGT stands for In Game Time and b) RT - (Real Time)
+
+The primary timer used is LiveSplit.
+
+== Download
+
+* https://livesplit.org/downloads/[LiveSplit]
+
+== Setup
+
+* https://www.youtube.com/watch?v=Ij7HDfbv63g[Kohru's Guide on How to set it up]
+
+= Streaming Tools:
+
+* OBS:
+** Open BroadCasting Software. Excellent in functionality. Beware, might bite you !
+
+== Download
+* https://obsproject.com/[OBS Project]
+
+== Setup
+* Any generic youtube setup tutorial would work.
 
 ---
 
