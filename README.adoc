@@ -63,7 +63,7 @@ This is the default launcher developed by Mojang themselves. Aptly titled "Minec
 ** Next , right click on the 1.16.1 that you named just now 
 ** Click `Edit Instance` and see in the right pane and hit `Install Fabric`.
 ** Select the Fabric version with the star in it .
-** OPTIONAL: TO allocate more RAM , click on `Settins` then Tick the `Memory` Option and set the amount in megabytes and in multiples of 1024 (so 3 GB would be 3 * 1025 = 3072 etc)
+** OPTIONAL: TO allocate more RAM , click on `Settings` then Tick the `Memory` Option and set the amount in megabytes and in multiples of 1024 (so 3 GB would be 3 * 1025 = 3072 etc)
 ** Next click `Close` at the bottom and again right click on the version and click `Edit Instance`. **Check the MODS section below for proper installation details**
 ** Now a `Loader Mods` section should appear. Click `Add` in the right pane and select the mods you have downloaded and saved somewhere. Your mods should be activated , to deactivate them -> click on `Disable` in the right pane
 ** Now hit `Launch` and you are ready to play !
