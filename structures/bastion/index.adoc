@@ -1,5 +1,5 @@
+:imagesdir: ../../src-img/structures/bastion
 = Bastions
-
 = Generation
 [regions](../../regions) *size* *biomes*
 
@@ -10,6 +10,7 @@
 
 === Bridges
 ==== Identifying
+
 .Bridge Bastion when viewed from the chalice
 [caption=""]
 image::bridge/Chalice.png[1280, 720]
