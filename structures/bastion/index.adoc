@@ -1,23 +1,86 @@
-# Fortresses
+= Bastions
 
-# Genoration
+= Generation
 [regions](../../regions) *size* *biomes*
 
-## Locating
-*TODO: go over entitiy xraying*
+== Locating
+*TODO: go over entity xraying*
 
-## Types
+== Types
 
-### Bridges
-#### Identifying
-*TODO: photos of bridges from 4 sides*
-*TODO: writen description of bridges*
-#### Routes
-*TODO: links to sections talking about each route*
+=== Bridges
+==== Identifying
+.Bridge Bastion when viewed from the chalice
+[caption=""]
+image::Bridge/Chalice.png[1280, 720]
+[cap]
 
-### Treasure Room
-*TODO: write section*
-### Housing
-*TODO: write section*
-### Stables
+.Bridge Bastion when viewed from the left shoulder
+[caption=""]
+image::Bridge/ShoulderLeft.png[1280, 720]
+[cap]
+
+.Bridge Bastion when viewed from the back
+[caption=""]
+image::Bridge/Backside.png[1280, 720]
+[cap]
+
+.Bridge Bastion when viewed from the right shoulder
+[caption=""]
+image::Bridge/ShoulderRight.png[1280, 720]
+[cap]
+
+*TODO: written description of bridges*
+
+==== Routes
+*TODO: links to section talking about each route*
+
+=== Treasure Room
+==== Identifying
+===== Ramparts
+.Treasure Bastion ramparts when viewed from the front
+[caption=""]
+image::Treasure/Ramparts_Section/RampartsFront.png[1280, 720]
+
+.Treasure Bastion ramparts when viewed from the left
+[caption=""]
+image::Treasure/Ramparts_Section/RampartLeft.png[1280, 720]
+
+.Treasure Bastion ramparts when viewed from the back
+[caption=""]
+image::Treasure/Ramparts_Section/RampartsBack.png[1280, 720]
+
+.Treasure Bastion ramparts when viewed from the right
+[caption=""]
+image::Treasure/Ramparts_Section/RampartRight.png[1280, 720]
+
+*TODO: written description of treasure*
+
+==== Routes
+*TODO: links to section talking about each route*
+
+=== Housing
+==== Identifying
+.Housing Bastion ramparts when viewed from the front
+[caption=""]
+image::Housing/Front.png[1280, 720]
+
+.Housing Bastion ramparts when viewed from the left
+[caption=""]
+image::Housing/Left.png[1280, 720]
+
+.Housing Bastion ramparts when viewed from the back
+[caption=""]
+image::Housing/Back.png[1280, 720]
+
+.Housing Bastion ramparts when viewed from the right
+[caption=""]
+image::Housing/Right.png[1280, 720]
+
+*TODO: written description of housing*
+
+==== Routes
+*TODO: links to section talking about each route*
+
+=== Stables
 *TODO: write section*
