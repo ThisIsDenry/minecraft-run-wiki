@@ -1,6 +1,7 @@
 :imagesdir: ../../src-img/structures/bastion
 = Bastions
-= Generation
+
+== Generation
 [regions](../../regions) *size* *biomes*
 
 == Locating

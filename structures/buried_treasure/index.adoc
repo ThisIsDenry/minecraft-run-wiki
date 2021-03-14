@@ -1,5 +1,13 @@
-
+:imagesdir: ../../src-img/structures/buried_treasure
 = Buried Treasure
 
-*TODO: talk about how to get maps*
+== Generation
+== Loot
+== Locating
+=== Using a Map Chest Treasure Map
+*TODO: explain how to find treasure maps*
+*TODO: talk about 9, 9*
+
+=== Blind Guessing a Treasure Chunk
+*TODO: explain treasure chunk 1/100 chance*
 *TODO: talk about 9, 9*
